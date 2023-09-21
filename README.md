@@ -1,6 +1,8 @@
 # シーンジャンプ
 設定ダイアログ表示中のシーンオブジェクトのシーンを表示する
 
+[ダウンロードはこちら](../../releases/)
+
 ## 動作要件
 - Visual C++ 再頒布可能パッケージの2022 x86(32bit)対応の物がインストールされている必要があります【Microsoft Visual C++ 2015-2022 Redistributable(x86)】→ 導入方法:< https://scrapbox.io/nazosauna/Visual_C++_再頒布可能パッケージをインストールする >
 
